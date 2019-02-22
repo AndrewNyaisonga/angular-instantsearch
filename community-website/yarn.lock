@@ -6019,13 +6019,13 @@ metalsmith-layouts@2.3.0:
     jstransformer "^1.0.0"
     multimatch "^2.1.0"
 
-metalsmith-sass@1.5.1:
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/metalsmith-sass/-/metalsmith-sass-1.5.1.tgz#dde2c8d408ccba038935a49d584adce37dcc566c"
-  integrity sha1-3eLI1AjMugOJNaSdWErc433MVmw=
+metalsmith-sass@1.6.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/metalsmith-sass/-/metalsmith-sass-1.6.0.tgz#a5cfcf3ba05fea5fd900a5c6fce60b20aad4f2cd"
+  integrity sha512-6VZ3uHkdL8XFSSa8LUiDKB+jNU0MBvDswvyCZeeedOjtvPOUNWCIs18agJwCsCeouYrB+rxvR/RzpkXTclR9WQ==
   dependencies:
     async "^2.6.0"
-    node-sass "^4.7.2"
+    node-sass "^4.11.0"
 
 metalsmith@2.3.0:
   version "2.3.0"
@@ -6541,7 +6541,7 @@ node-pre-gyp@^0.6.39:
     tar "^2.2.1"
     tar-pack "^3.4.0"
 
-node-sass@4.11.0:
+node-sass@4.11.0, node-sass@^4.11.0:
   version "4.11.0"
   resolved "https://registry.yarnpkg.com/node-sass/-/node-sass-4.11.0.tgz#183faec398e9cbe93ba43362e2768ca988a6369a"
   integrity sha512-bHUdHTphgQJZaF1LASx0kAviPH7sGlcyNhWade4eVIpFp6tsn7SV8xNMTbsQFpEV9VXpnwTTnNYlfsZXgGgmkA==
@@ -6566,7 +6566,7 @@ node-sass@4.11.0:
     stdout-stream "^1.4.0"
     "true-case-path" "^1.0.2"
 
-node-sass@^4.7.2, node-sass@^4.9.0:
+node-sass@^4.9.0:
   version "4.9.0"
   resolved "https://registry.yarnpkg.com/node-sass/-/node-sass-4.9.0.tgz#d1b8aa855d98ed684d6848db929a20771cc2ae52"
   integrity sha512-QFHfrZl6lqRU3csypwviz2XLgGNOoWQbo2GOvtsfQqOfL4cy1BtWnhx/XUeAO9LT3ahBzSRXcEO6DdvAH9DzSg==
